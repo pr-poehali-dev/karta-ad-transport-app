@@ -18,7 +18,7 @@ const transportTypes = [
 const subscriptionPlans = [
   { name: '7 дней', price: 1, period: '7 дней' },
   { name: '28 дней', price: 5, period: 'месяц' },
-  { name: 'VIP', price: 100, period: 'месяц', isVip: true },
+  { name: 'VIP', price: 100, period: 'год', isVip: true },
 ];
 
 const mockTrips = [
